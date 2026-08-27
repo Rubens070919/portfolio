@@ -8,6 +8,28 @@ Contato e demais informacoes no perfil do GitHub.
 
 ---
 
+## Experiencia profissional
+
+**Grupo Moreno** - Analista de Dados Sr. (jan/2026 - atual). Dashboards e pipelines de BI para operacoes de moagem de cana-de-acucar em tres unidades industriais.
+
+**QualiIT** - Analista de Dados Sr. (jun/2024 - fev/2026)
+
+**MARKETDATA / PagBank** - Analista de Dados Sr., frente de CRM (fev/2023 - jun/2024)
+
+**Sem Parar** (2022)
+
+**BRQ** (2021 - 2022)
+
+**Altran** (2020 - 2021)
+
+**Almaviva** (2019)
+
+**GFT** (2019)
+
+**Accenture** (2018 - 2019)
+
+---
+
 ## Projetos
 
 ### AlugaPerto: marketplace de aluguel de equipamentos
@@ -44,4 +66,32 @@ Um diferencial pensado para o produto: notificacoes push avisando quando surge u
 
 ## Stack tecnica
 
-Power BI, DAX, Power Query, SQL (Oracle), Python, PySpark, dbt, React Native, Firebase, Node.js
+**BI e dados:** Power BI (DAX avancado), Tableau, Metabase, dbt, Power Query
+
+**Linguagens:** SQL, Python (pandas, boto3, pyodbc, Selenium), PySpark, VBA
+
+**Bancos de dados:** Oracle, SQL Server, MySQL, Redshift, Progress/Datasul, AWS Athena
+
+**ETL e automacao:** Apache Airflow, Pentaho, RPA em Python
+
+**Cloud:** AWS (S3, Glue, Athena), Azure
+
+**Outros:** Elasticsearch, Docker, Git/GitLab, React Native, Firebase, Node.js
+
+---
+
+## Formacao e certificacoes
+
+Bacharelado em Ciencia da Computacao - Faculdade Carlos Drummond de Andrade (2012)
+
+Tecnico em Informatica - CEDASPY (2005)
+
+Oracle OCP - SQL e PL/SQL (2017)
+
+Power BI - Data Science Academy (2023)
+
+Python Fundamentos 3.0 (2023)
+
+ITIL v3 Foundation
+
+CCNA
